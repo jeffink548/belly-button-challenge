@@ -1,0 +1,91 @@
+.hero {
+  position: relative;
+  height: 300px;
+  padding: 10px;
+  margin: 20px 0px 20px 0px;
+  background: #eeeeee;
+  background-attachment: fixed;
+  background-position: bottom-center;
+  background-size: cover;
+  vertical-align: middle;
+}
+
+#dashboard_title {
+  margin-top: 60px;
+  word-spacing: 10px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 63px;
+}
+
+#dashboard_p {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.well {
+  background-color: gray;
+  color: #fdfefe;
+  padding: 7px 7px 7px 7px;
+}
+
+.well h5 {
+  font-size: 14px;
+}
+
+.panel-body p {
+  line-height: 12px;
+}
+
+#selDataset {
+  width: 100%;
+  font-size: 18px;
+  font-weight: bolder;
+  padding: 0px 0px 0px 5px;
+}
+
+#demo_info {
+  border-color: gray;
+  margin: 25px 0px 0px 0px;
+}
+
+.panel-heading {
+  background-color: gray;
+  padding: 7px;
+}
+
+.panel-body {
+  border: 1px solid gray;
+  background-color: #fdfefe;
+  padding: 5px 0px 0px 2.5px;
+  font-size: 12px;
+}
+
+.panel {
+  background-color: rgb(128, 128, 128);
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+.bar {
+  height: 200px;
+  width: 100px;
+  margin: 0 auto;
+}
+
+.gauge {
+  height: 300px;
+  width: 450px;
+  margin: 0 auto;
+}
+
+.bubble {
+  height: 800px;
+  width: 600px;
+  margin: 0 auto;
+}
